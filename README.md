@@ -13,4 +13,16 @@ Ejemplo lista enumerada
 1. hola
 2. chao
 
+Ejmeplo lista con varios niveles
+
+*hola
+*chao 
+  *holi
+  *chao
+    *HOLA
+    *Pti
+
+Ejemplo lista de chequeo
+- [x] como hacer un git
+- [x] primero comemos  
 
